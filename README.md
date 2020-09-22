@@ -3,6 +3,12 @@
 An web based application to track covid cases on daily purpose. Cases can be tracked worldwide or country specific.
 Developed using react js.
 
+![](images/CovidTracker01.png)
+<br/>
+<br/>
+![](images/CovidTracker02.png)
+
+
 Installation and Setup Instructions
 
 Clone down this repository. You will need node and npm installed globally on your machine.
