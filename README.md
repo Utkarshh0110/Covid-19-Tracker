@@ -21,7 +21,7 @@ To Start Server:
 
 ### `npm start`
 
-To Visit App:
+To Visit App: https://covid-19-tracker-74f00.web.app/
 
 localhost:3000/
 
